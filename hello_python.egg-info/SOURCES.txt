@@ -1,0 +1,8 @@
+setup.py
+hello/__init__.py
+hello/__main__.py
+hello_python.egg-info/PKG-INFO
+hello_python.egg-info/SOURCES.txt
+hello_python.egg-info/dependency_links.txt
+hello_python.egg-info/entry_points.txt
+hello_python.egg-info/top_level.txt
